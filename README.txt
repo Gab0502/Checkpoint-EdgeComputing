@@ -42,7 +42,12 @@ https://youtu.be/flY7FzkTYRs
 
 
 
-
+Integrantes do grupo:
+Enricco Rossi de Souza Carvalho Miranda rm551717
+Erick Carvalho Pereira rm550772
+Felipe de Vinicius Quinalha rm98957
+Gabriel Marquez Trevisan rm99227
+Silvia Kavabata rm97650
 
 
 

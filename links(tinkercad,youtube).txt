@@ -1,0 +1,5 @@
+-- TINKERCAD:
+https://www.tinkercad.com/things/coDC8UMUQrE-copy-of-ligar-e-desligar-um-led-utilizando-sensor-ldr/editel?sharecode=l82z9k03-jxm6jFzHshKd-NZ9YORb9S9W_u8GKcRtA0
+
+--YOUTUBE:
+https://www.youtube.com/watch?v=flY7FzkTYRs&feature=youtu.be
